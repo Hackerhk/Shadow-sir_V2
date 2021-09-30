@@ -1,0 +1,10 @@
+2021-08-14T14:20:26.503462+00:00 app[worker.1]:     error: {}
+2021-08-14T14:21:30.553904+00:00 app[worker.1]: WARN [2021-08-14 14:21:30.553 +0000] (56): connect attempt 8 failed: Error: timed out, retrying...
+2021-08-14T14:21:30.553913+00:00 app[worker.1]:     class: "Baileys"
+2021-08-14T14:21:30.553914+00:00 app[worker.1]:     error: {}
+2021-08-14T14:22:34.670386+00:00 app[worker.1]: WARN [2021-08-14 14:22:34.670 +0000] (56): connect attempt 9 failed: Error: timed out, retrying...
+2021-08-14T14:22:34.670395+00:00 app[worker.1]:     class: "Baileys"
+2021-08-14T14:22:34.670396+00:00 app[worker.1]:     error: {}
+2021-08-14T14:23:38.737748+00:00 app[worker.1]: WARN [2021-08-14 14:23:38.737 +0000] (56): connect attempt 10 failed: Error: timed out
+2021-08-14T14:23:38.737759+00:00 app[worker.1]:     class: "Baileys"
+2021-08-14T14:23:38.737760+00:00 app[worker.1]:     error: {}
